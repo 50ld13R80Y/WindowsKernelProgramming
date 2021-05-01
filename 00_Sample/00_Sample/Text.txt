@@ -1,0 +1,1 @@
+sc create sample type= kernel binPath= c:\dev\sample\x64\debug\sample.sys
